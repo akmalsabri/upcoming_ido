@@ -1,0 +1,35 @@
+/* #ido-tab .nav-link.active{
+
+
+    background-color: #7b6cd1 !important;
+    color: rgb(243, 235, 235) !important;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 10px;
+
+    
+} */
+/* background-color: #eed816 !important; */
+
+#ido-tab .nav-link.active{
+
+
+    background-color: #727cf5 !important;
+    color: white !important;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 10px;
+
+    
+}
+
+#ido-tab .nav-link{
+
+    background-color: rgba(47, 45, 121, 0.09);
+    color: black !important;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 10px;
+
+    
+}
